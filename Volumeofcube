@@ -1,0 +1,4 @@
+# Find the volume n of a Cube
+SideLength = float(input("enter your radius:"))
+Volumeofcube = SideLengthxSideLengthxSideLength
+print(Volumeofcube)
